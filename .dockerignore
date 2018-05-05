@@ -1,0 +1,15 @@
+# vscode
+.vscode/
+
+# docker
+/docker-compose.yml
+/Dockerfile
+
+$ git
+.gitignore
+README.md
+
+# other
+/jpg_image
+/tf_files
+/train.1.py

@@ -1,0 +1,15 @@
+# docker
+# /docker-compose.yml
+# /Dockerfile
+# /requirements.txt
+
+# Python
+__pycache__
+
+# vscode
+.vscode/
+
+# other
+/jpg_image
+/tf_files
+/train.1.py
